@@ -45,19 +45,23 @@ li {
 }
 
 .main {
-  padding: 100px 80px;
+  padding:10px 80px;
 }
 
 .copy-container h1 {
-  font-size: 140px;
+  font-size: 120px;
+  width: auto;
 }
 
 .copy-container h2 {
-  font-size: 60px;
+  font-size: 30px;
+  border-bottom: 2px solid rgb(128, 128, 128);
+  padding-bottom: 20px;
+  width: auto;
 }
 
 .copy-container span {
-  color: #ff4a4a;
+  color: #e45b00;
 }
 
 /* ---Lutfi Ihsan --- */
@@ -220,7 +224,7 @@ input, textarea {
   padding-bottom: 20px;
 }
 .topnav {
-  background-color: rgb(255, 255, 255);
+  background-color: #f7f8fc;
   overflow: hidden;
   width: auto;
 }
